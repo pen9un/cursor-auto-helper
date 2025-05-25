@@ -12,7 +12,11 @@
 
 ## 🏠 [Homepage](https://github.com/pen9un/cursor-auto-helper)
 
-Cursor Auto Helper 是一款专为 Cursor IDE 打造的自动化增强工具，能够实时显示用量、自动处理 25 次对话限制、网络连接失败、确认提示等场景，让你的开发体验更加流畅。提示词质量高，项目需求规划的好，这个程序就可以让 Cursor 在无需人工干预的情况下自动完成一个项目。
+Cursor Auto Helper 是一款专为 Cursor IDE 打造的自动化增强工具，能够实时显示用量、自动处理 25 次对话限制、网络连接失败、确认提示等场景，让你的开发体验更加流畅。
+
+**视频演示：** [Cursor Auto Helper 演示视频](https://www.bilibili.com/video/BV1cajKzCEzv/)
+
+提示词质量高，项目需求规划的好，这个程序就可以让 Cursor 在无需人工干预的情况下自动完成一个项目。
 
 > ⚠️ **版本限制**：目前仅在 Cursor 0.49.6 版本上开发测试通过，其他版本可能存在兼容性问题。
 
