@@ -44,7 +44,7 @@ path = C:\Path\To\Cursor.exe  # Cursor IDE安装路径，程序会自动查找Cu
 
 - `text` / `text_list`：匹配的文本内容
   - `text`：单个字符串
-  - `text_list`：逗号分隔的多个字符串，页面内容包含任一项即触发
+  - `text_list`：| 分隔的多个字符串，页面内容包含任一项即触发
 
 - `button_selector`：需要点击的按钮的CSS选择器（仅`click`类型需要）
 - `button_text`：按钮文本内容（可选，进一步限定按钮）
