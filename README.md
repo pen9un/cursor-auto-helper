@@ -33,13 +33,13 @@ Cursor Auto Helper 是一款专为 Cursor IDE 打造的自动化增强工具，�
 
 注：以下文档可由 Cursor 等 AI 辅助生成，需人工核验调整。
 
-**STEP 1：**详细项目系统需求设计（需求梳理的越清晰，项目质量会越高），编写高质量项目开发提示词 **SYSTEM.md**
+**STEP 1：** 详细项目系统需求设计（需求梳理的越清晰，项目质量会越高），编写高质量项目开发提示词 **SYSTEM.md**
 
-**STEP 2：**根据 **SYSTEM.md** 输出高质量系统开发设计方案文档 **DESIGN.md**
+**STEP 2：** 根据 **SYSTEM.md** 输出高质量系统开发设计方案文档 **DESIGN.md**
 
-**STEP 3：**根据 **SYSTEM.md** 和 **DESIGN.md** 输出高质量开发计划文档 **TODOLIST.md**
+**STEP 3：** 根据 **SYSTEM.md** 和 **DESIGN.md** 输出高质量开发计划文档 **TODOLIST.md**
 
-**STEP 4：**使用 **Cursor Auto Helper** ，指定 **SYSTEM.md**、**DESIGN.md**、**TODOLIST.md** ，使用自动继续反馈提示词，使 Cursor 一直自动化按照开发计划完成项目开发，直至完成
+**STEP 4：** 使用 **Cursor Auto Helper** ，指定 **SYSTEM.md**、**DESIGN.md**、**TODOLIST.md** ，使用自动继续反馈提示词，使 Cursor 一直自动化按照开发计划完成项目开发，直至完成
 
 **Cursor Auto Helper 自动继续反馈提示词：**
 
