@@ -7,7 +7,7 @@
   <img alt="Cursor Version" src="https://img.shields.io/badge/Cursor-0.49.6-blue.svg" />
 </p>
 
-> Cursor自动继续工具，Cursor自动重试，Cursor自动确认，Cursor用量统计，Cursor对话助手，Cursor增强工具，Cursor辅助工具，Cursor自动化工具，Cursor Auto Continue Tool，Cursor Auto Retry Tool，Cursor Auto Confirm Tool，Cursor Usage Statistics Tool，Cursor Efficiency Tool，Cursor Assistant Tool，Cursor Automation Tool，after 25 tool calls，Cursor Tool Call Limit🔧🤖🚀
+> Cursor自动继续工具，Cursor自动重试，Cursor自动确认，Cursor用量统计，Cursor增强工具，Cursor辅助工具，Cursor自动化工具，Cursor主题设置，Cursor Auto Continue Tool，Cursor Auto Retry Tool，Cursor Auto Confirm Tool，Cursor Usage Statistics Tool，Cursor Efficiency Tool，Cursor Automation Tool，Cursor Theme Settings，Cursor after 25 tool calls，Cursor Tool Call Limit🔧🤖🚀
 > 
 
 ## 🏠 [Homepage](https://github.com/pen9un/cursor-auto-helper)
