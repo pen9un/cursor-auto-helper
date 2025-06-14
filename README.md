@@ -4,7 +4,7 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <img alt="Cursor Version" src="https://img.shields.io/badge/Cursor-0.49.6-blue.svg" />
+  <img alt="Cursor Version" src="https://img.shields.io/badge/Cursor-0.48.x%20%E8%87%B3%201.0.0-blue.svg" />
 </p>
 
 > Cursor自动继续工具，Cursor自动重试，Cursor自动确认，Cursor用量统计，Cursor增强工具，Cursor辅助工具，Cursor自动化工具，Cursor主题设置，Cursor Auto Continue Tool，Cursor Auto Retry Tool，Cursor Auto Confirm Tool，Cursor Usage Statistics Tool，Cursor Efficiency Tool，Cursor Automation Tool，Cursor Theme Settings，Cursor after 25 tool calls，Cursor Tool Call Limit🔧🤖🚀
@@ -18,7 +18,7 @@ Cursor Auto Helper 是一款专为 Cursor IDE 打造的自动化增强工具，�
 
 提示词质量高，项目需求规划的好，这个程序就可以让 Cursor 在无需人工干预的情况下自动完成一个项目。
 
-> ⚠️ **版本限制**：目前仅在 Cursor 0.49.6 版本上开发测试通过，其他版本可能存在兼容性问题。
+> 🔒 **版本兼容**：目前在 Cursor 0.49.6 、Cursor 1.0.0 版本上开发测试通过，理论兼容 Cursor 0.48.x - 1.0.0 版本。
 
 <img src="./resource/image/cursor-auto-helper.png" alt="cursor-auto-helper" />
 
