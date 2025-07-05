@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="right">
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=pen9un&project=cursor-auto-helper&lang=id">Bahasa Indonesia</a></p>
+      </div>
+    </div>
+  </details>
+</div>
+
 <h1 align="center">欢迎使用&nbsp;&nbsp;Cursor Auto Helper 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.3.0-blue.svg?cacheSeconds=2592000" />
