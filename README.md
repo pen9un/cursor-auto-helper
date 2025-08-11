@@ -8,13 +8,53 @@
 > Cursor自动继续工具，Cursor自动重试，Cursor自动确认，Cursor用量统计，Cursor增强工具，Cursor辅助工具，Cursor自动化工具，Cursor主题设置，Cursor Auto Continue Tool，Cursor Auto Retry Tool，Cursor Auto Confirm Tool，Cursor Usage Statistics Tool，Cursor Efficiency Tool，Cursor Automation Tool，Cursor Theme Settings，Cursor after 25 tool calls，Cursor Tool Call Limit🔧🤖🚀
 > 
 
+## 🔔**停更说明**
+
+先说声抱歉，Cursor 官方计费接口已修改，且启动方式也已改变，导致当前版本工具实时用量功能已失效，自动继续功能也不能正常使用。
+
+另外发现新版本使用多个 MCP 服务组合后，也挺能（肯，持续）干活，暂时不打算再继续跟进升级版本。
+
+在实践过程中发现 Augment Code 相对来说质量更好一些，目前转投 Augment 中。
+
+本人自用的 Cursor MCP 服务配置如下（重点是 `sequential-thinking` 和 `context7` ，`playwright` 可用于自动化测试 Web 系统，很高效）：
+
+```
+{
+  "mcpServers": {
+    "MCP Installer": {
+      "command": "npx",
+      "type": "stdio",
+      "args": [
+        "cursor-mcp-installer-free@0.1.3",
+        "index.mjs"
+      ]
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp@latest"]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    }
+  }
+}
+```
+
+感谢各位对 Cursor Auto Helper 的支持！
+
 ## 🏠 [Homepage](https://github.com/pen9un/cursor-auto-helper)
 
 Cursor Auto Helper 是一款专为 Cursor IDE 打造的自动化增强工具，能够实时显示用量、自动处理 25 次对话限制、网络连接失败、确认提示等场景，让你的开发体验更加流畅。
-
-🔔**注意**
-
-先说声抱歉，Cursor 官方计费接口已修改，且启动方式也已改变，导致当前版本工具实时用量功能已失效，自动继续功能暂时也不能使用。新版本开发测试中，敬请期待！
 
 **视频演示：** [Cursor Auto Helper 演示视频](https://www.bilibili.com/video/BV1cajKzCEzv/)
 
