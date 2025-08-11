@@ -8,7 +8,7 @@
 > Cursor自动继续工具，Cursor自动重试，Cursor自动确认，Cursor用量统计，Cursor增强工具，Cursor辅助工具，Cursor自动化工具，Cursor主题设置，Cursor Auto Continue Tool，Cursor Auto Retry Tool，Cursor Auto Confirm Tool，Cursor Usage Statistics Tool，Cursor Efficiency Tool，Cursor Automation Tool，Cursor Theme Settings，Cursor after 25 tool calls，Cursor Tool Call Limit🔧🤖🚀
 > 
 
-## 🔔**停更说明**
+## 🔔**停更说明** + Cursor MCP 推荐
 
 先说声抱歉，Cursor 官方计费接口已修改，且启动方式也已改变，导致当前版本工具实时用量功能已失效，自动继续功能也不能正常使用。
 
